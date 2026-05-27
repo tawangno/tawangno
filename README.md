@@ -63,8 +63,10 @@ Production-style full-stack financial system built to solve real problems:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tawangno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawangno&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"/>
+<table><tr>
+<td><img height="170em" src="https://github-readme-stats.vercel.app/api?username=tawangno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/></td>
+<td><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawangno&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"/></td>
+</tr></table>
 
 <br/>
 
