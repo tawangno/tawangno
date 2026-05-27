@@ -63,9 +63,12 @@ Production-style full-stack financial system built to solve real problems:
 
 <div align="center">
 
-![tawangno's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawangno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tawangno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawangno&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tawangno&layout=compact&hide_border=true&langs_count=6&theme=tokyonight)
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tawangno&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -75,7 +78,7 @@ Production-style full-stack financial system built to solve real problems:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-alguzespeed1%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:alguzespeed1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tawan__gno%40hotmail.com-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:tawan_gno@hotmail.com)
 
 Open to **Backend Developer** / **Full-stack Developer** roles.
 
