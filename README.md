@@ -1,8 +1,18 @@
-# Hi, I'm Tawangno 👋
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=620&lines=Hi+I'm+Tawangno+%F0%9F%91%8B;Backend+Developer;Building+production-ready+systems)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
 Backend-focused developer who builds production-style systems — not just CRUD.
 
 I care about correctness under concurrency, financial data integrity, and shipping things that actually work in production.
+
+<br clear="right"/>
 
 ---
 
@@ -41,7 +51,7 @@ Production-style full-stack financial system built to solve real problems:
 - **Audit trail** — Double-entry ledger (every transaction = 2 ledger rows, always balanced)
 - **Token security** — JWT + refresh token rotation + Redis blacklist
 
-**Live Demo:** [wallet-app.vercel.app](https://wallet-app.vercel.app) · [API Swagger](https://wallet-api.onrender.com/swagger)
+**Live Demo:** [walletapp-eta-tan-91.vercel.app](https://walletapp-eta-tan-91.vercel.app/login) · [API Swagger](https://walletapp-xu2j.onrender.com/swagger)
 
 > Test: `demo@example.com` / `Demo1234!`
 
@@ -51,14 +61,22 @@ Production-style full-stack financial system built to solve real problems:
 
 ## GitHub Stats
 
-![tawangno's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawangno&show_icons=true&theme=default&hide_border=true&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tawangno&layout=compact&hide_border=true&langs_count=6)
+![tawangno's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawangno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tawangno&layout=compact&hide_border=true&langs_count=6&theme=tokyonight)
+
+</div>
 
 ---
 
 ## Contact
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-alguzespeed1%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:alguzespeed1@gmail.com)
 
 Open to **Backend Developer** / **Full-stack Developer** roles.
+
+</div>
