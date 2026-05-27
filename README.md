@@ -63,12 +63,7 @@ Production-style full-stack financial system built to solve real problems:
 
 <div align="center">
 
-<table><tr>
-<td><img height="170em" src="https://github-readme-stats.vercel.app/api?username=tawangno&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/></td>
-<td><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawangno&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"/></td>
-</tr></table>
-
-<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tawangno&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tawangno&theme=tokyonight&hide_border=true)
 
