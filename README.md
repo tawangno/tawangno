@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=620&lines=Hi+I'm+Tawangno+%F0%9F%91%8B;Backend+Developer;Building+production-ready+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=620&lines=Hi+I'm+Tawan Jeeno+%F0%9F%91%8B;Backend+Developer;Building+production-ready+systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -51,7 +51,7 @@ Production-style full-stack financial system built to solve real problems:
 - **Audit trail** — Double-entry ledger (every transaction = 2 ledger rows, always balanced)
 - **Token security** — JWT + refresh token rotation + Redis blacklist
 
-**Live Demo:** [walletapp-eta-tan-91.vercel.app](https://walletapp-eta-tan-91.vercel.app/login) · [API Swagger](https://walletapp-xu2j.onrender.com/swagger)
+**Live Demo:** [walletapp-eta-tan-91.vercel.app](https://walletapp-eta-tan-91.vercel.app/login) · [API Swagger](https://walletapp-xu2j.onrender.com/health)
 
 > Test: `demo@example.com` / `Demo1234!`
 
