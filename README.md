@@ -53,7 +53,7 @@ Production-style full-stack financial system built to solve real problems:
 
 **Live Demo:** [walletapp-eta-tan-91.vercel.app](https://walletapp-eta-tan-91.vercel.app/login) · [API Swagger](https://walletapp-xu2j.onrender.com/health)
 
-> Test: `demo@example.com` / `Demo1234!`
+> Test: `demo@example.com` / `Aa123456`
 
 **Stack:** ASP.NET Core 10 · React 19 + TypeScript · PostgreSQL · Redis · Docker · GitHub Actions · Render · Vercel
 
