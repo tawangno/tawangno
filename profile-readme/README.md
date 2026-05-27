@@ -1,0 +1,64 @@
+# Hi, I'm Tawangno 👋
+
+Backend-focused developer who builds production-style systems — not just CRUD.
+
+I care about correctness under concurrency, financial data integrity, and shipping things that actually work in production.
+
+---
+
+## Tech Stack
+
+**Backend**
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-10-512BD4?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-10-239120?logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-7-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
+
+**Infrastructure**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-Deploy-46E3B7?logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-Frontend-000000?logo=vercel&logoColor=white)
+
+---
+
+## Featured Project
+
+### [WalletApp — Digital Wallet & Payment Gateway](https://github.com/tawangno/WalletApp)
+
+Production-style full-stack financial system built to solve real problems:
+
+- **Double-charge prevention** — Idempotency keys on every transaction
+- **Race condition safety** — Optimistic locking with `RowVersion` on wallet balance
+- **Audit trail** — Double-entry ledger (every transaction = 2 ledger rows, always balanced)
+- **Token security** — JWT + refresh token rotation + Redis blacklist
+
+**Live Demo:** [wallet-app.vercel.app](https://wallet-app.vercel.app) · [API Swagger](https://wallet-api.onrender.com/swagger)
+
+> Test: `demo@example.com` / `Demo1234!`
+
+**Stack:** ASP.NET Core 10 · React 19 + TypeScript · PostgreSQL · Redis · Docker · GitHub Actions · Render · Vercel
+
+---
+
+## GitHub Stats
+
+![tawangno's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawangno&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tawangno&layout=compact&hide_border=true&langs_count=6)
+
+---
+
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-alguzespeed1%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:alguzespeed1@gmail.com)
+
+Open to **Backend Developer** / **Full-stack Developer** roles.
