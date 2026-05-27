@@ -59,17 +59,6 @@ Production-style full-stack financial system built to solve real problems:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tawangno&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tawangno&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## Contact
 
