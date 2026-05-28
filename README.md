@@ -65,6 +65,7 @@ Production-style full-stack financial system built to solve real problems:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-tawan__gno%40hotmail.com-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:tawan_gno@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tawan_Hindam-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tawan-hindam-8a5263394/)
 
 Open to **Backend Developer** / **Full-stack Developer** roles.
 
