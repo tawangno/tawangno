@@ -51,7 +51,7 @@ Production-style full-stack financial system built to solve real problems:
 - **Audit trail** — Double-entry ledger (every transaction = 2 ledger rows, always balanced)
 - **Token security** — JWT + refresh token rotation + Redis blacklist
 
-**Live Demo:** [wallet-app.vercel.app](https://wallet-app.vercel.app) · [API Swagger](https://wallet-api.onrender.com/swagger)
+**Live Demo:** [wallet-app.vercel.app](https://walletapp-eta-tan-91.vercel.app) · [API Swagger](https://wallet-api.onrender.com/swagger)
 
 > Test: `demo@example.com` / `Aa123456!`
 
